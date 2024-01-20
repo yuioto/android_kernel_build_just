@@ -1,0 +1,3 @@
+[submodule "out/Anykernel"]
+	path = out/Anykernel
+	url = https://github.com/osm0sis/AnyKernel3
